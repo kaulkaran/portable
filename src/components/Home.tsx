@@ -35,7 +35,7 @@ export function Home() {
             transition={{ delay: 0.6 }}
             className="flex space-x-4"
           >
-            <a href="https://github.com/kaulkaran" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
+            <a href="#" target="_blank" rel="noopener noreferrer" className="hover:text-blue-400 transition-colors">
               <Github size={24} />
             </a>
             <a href="https://www.instagram.com/kaulkaran._/?igsh=OXA3NW8zcTNlZDM3#" target="_blank" rel="noopener noreferrer" className="hover:text-pink-400 transition-colors">
