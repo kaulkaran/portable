@@ -5,8 +5,8 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    id: 'qualtspire',
-    title: 'QualtSpire',
+    id: 'veron',
+    title: 'Veron',
     description: 'A cutting-edge software development platform revolutionizing the way teams collaborate and build products.',
     image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop',
     tags: ['React', 'Node.js', 'TypeScript', 'AWS'],
