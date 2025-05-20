@@ -4,11 +4,11 @@ import { motion } from 'framer-motion';
 import { ArrowLeft, Github, ExternalLink } from 'lucide-react';
 
 const projectsData = {
-  'qualtspire': {
-    title: 'QualtSpire',
+  'veron': {
+    title: 'Veron',
     description: 'A cutting-edge software development platform revolutionizing the way teams collaborate and build products.',
     fullDescription: `
-      QualtSpire is an innovative software development platform that combines the power of AI with modern collaboration tools to streamline the development process. Built with scalability and efficiency in mind, it helps teams deliver high-quality software faster.
+      Veron is an innovative software development platform that combines the power of AI with modern collaboration tools to streamline the development process. Built with scalability and efficiency in mind, it helps teams deliver high-quality software faster.
 
       Key Features:
       - AI-powered code suggestions and reviews
