@@ -27,7 +27,7 @@ export function Home() {
             transition={{ delay: 0.4 }}
             className="text-xl text-gray-300 mb-6"
           >
-            Senior Software Developer at Oracle | Founder at QualtSpire
+            Senior Software Developer at Oracle | Founder at Veron
           </motion.p>
           <motion.div 
             initial={{ opacity: 0 }}
@@ -89,7 +89,7 @@ export function Home() {
               </div>
               <div className="bg-gray-700 p-4 rounded-lg">
                 <h3 className="font-bold mb-2">Current Ventures</h3>
-                <p>Founder at QualtSpire (2023-Present)</p>
+                <p>Founder at Veron (2023-Present)</p>
                 <p>Senior Software Developer at Oracle</p>
               </div>
             </div>
@@ -112,7 +112,7 @@ export function Home() {
               <div className="flex justify-between items-start mb-4">
                 <div>
                   <h3 className="text-xl font-bold">Founder</h3>
-                  <p className="text-blue-400">QualtSpire</p>
+                  <p className="text-blue-400">Veron</p>
                 </div>
                 <span className="text-gray-400">2023 - Present</span>
               </div>
